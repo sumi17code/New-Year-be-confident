@@ -1,0 +1,110 @@
+
+
+.main-image{
+    display: flex;
+    gap: 150px;
+}
+
+.des{
+    padding-top:300px ;
+}
+
+.img{
+    padding-top: 100px;
+    padding-left: 200px;
+}
+
+.point{
+    display: flex;
+    gap: 10px;
+}
+
+.point img{
+    height: 25px;
+    padding-top: 10px;
+}
+.point h6{
+    font-size: 14px;
+    font-weight: none;
+}
+
+
+.My-plans h1{
+    text-align: center;
+    padding-top: 100px;
+    font-weight: bolder;
+}
+
+.icons{
+    
+    display: flex;
+    gap: 100px;
+    padding-left: 350px;
+    padding-top: 80px;
+}
+
+.icon h4{
+    font-size: 20px;
+   
+}
+
+.icon{
+    padding-left: 10px;
+}
+
+.always-gradient{
+    position: relative;
+    text-align: left;
+    color: white;
+    
+}
+
+.watch{
+    height: 300px;
+    width: 80%;
+   
+    object-fit: cover;
+   
+    
+}
+
+.grad{
+    height: 300px;
+    width:60%;
+    position: absolute;
+    background-image: linear-gradient(to right, blue, transparent );
+    padding-top:-200px ;
+    padding-right:-400px ;
+    padding-bottom: -100px;
+    padding-left: 0px;
+   
+}
+
+.gradient{
+    padding-top: 200px;
+    padding-left: 200px;
+    
+}
+
+.word{
+    position: absolute;
+    bottom: 100px;
+    left: 250px;
+}
+
+.word h1{
+    font-size: 40px;
+}
+
+.call{
+    border-radius: 30%;
+    
+}
+
+.call h4{
+    color: blue;
+    font-weight: 700;
+    font-size: medium;
+    padding: 10px;
+    margin: 5px;
+}

@@ -1,0 +1,44 @@
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    position: relative;
+    text-align: right;
+    color: white;
+}
+.container img{
+    width: 100%;
+    
+}
+.heading{
+    position: absolute;
+    top: 30%;
+    right: 200px;
+    font-size: 50px;
+    font-weight: 900px;
+}
+.para{
+    position: absolute;
+    top: 55%;
+    right: 200px;
+}
+
+.button{
+    position: absolute;
+    top: 65%;
+    right: 200px;
+    border-radius: 30%;
+    
+}
+.button h1{
+    color: blue;
+    font-weight: 700;
+    font-size: medium;
+    padding: 10px;
+    margin: 5px;
+}
+.cont{
+    border-radius: 10%;
+}
